@@ -1,0 +1,30 @@
+#board
+{padding-top: 3em;
+text-align: center;}
+
+h1
+{text-align: center}
+
+.row > div
+{float: left;
+height: 100px;
+width: 100px;
+cursor: pointer;}
+
+.row
+{clear: both;
+margin: 0 auto;
+width: 302px;}
+
+.Top
+{border-bottom: 1px solid black;} 
+
+.Bottom 
+{border-top: 1px solid black;}
+
+.Left
+{border-right: 1px solid black;}
+
+.Right {
+    border-left: 1px solid black;
+}
